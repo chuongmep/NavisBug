@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <UseWpf>true</UseWpf>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Chuongmep.Navis.Api.Autodesk.Navisworks.Api" Version="2022.0.5" />
+        <PackageReference Include="Speckle.Core" Version="2.9.0" />
+    </ItemGroup>
+    
+</Project>
